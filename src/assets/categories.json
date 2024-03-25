@@ -1,0 +1,119 @@
+[
+  {
+    "name": "Amigurumis",
+    "slug": "amigurumis",
+    "children": [
+      {
+        "name": "Amigurumis de anime",
+        "slug": "amigurumis-de-anime"
+      },
+      {
+        "name": "Amigurumis personalizados",
+        "slug": "amigurumis-personalizados"
+      },
+      {
+        "name": "Amigurumis de animales",
+        "slug": "amigurumis-de-animales"
+      },
+      {
+        "name": "Amigurumis de Superhéroes y Villanos",
+        "slug": "amigurumis-de-superheroes-y-villanos"
+      },
+      {
+        "name": "Amigurumis de personajes animados",
+        "slug": "amigurumis-de-personajes-animados"
+      },
+      {
+        "name": "Pesebres amigurumis",
+        "slug": "pesebres-amigurumis"
+      },
+      {
+        "name": "Vírgenes Amigurumis",
+        "slug": "virgenes-amigurumis"
+      }
+    ]
+  },
+  {
+    "name": "Decoraciones tejidas",
+    "slug": "decoraciones-tejidas",
+    "children": [
+      {
+        "name": "Llaveros tejidos",
+        "slug": "llaveros-tejidos"
+      },
+      {
+        "name": "Separa páginas tejidos",
+        "slug": "separa-paginas-tejidos"
+      },
+      {
+        "name": "Atrapa sueños tejidos",
+        "slug": "atrapa-suenos-tejidos"
+      },
+      {
+        "name": "Camándulas tejidas",
+        "slug": "camandulas-tejidas"
+      },
+      {
+        "name": "Flores tejidas",
+        "slug": "flores-tejidas"
+      },
+      {
+        "name": "Decoraciones de navidad",
+        "slug": "decoraciones-de-navidad"
+      },
+      {
+        "name": "Recordatorios para Babyshowers",
+        "slug": "recordatorios-para-babyshowers"
+      }
+    ]
+  },
+  {
+    "name": "Tejidos",
+    "slug": "tejidos",
+    "children": [
+      {
+        "name": "Bufandas",
+        "slug": "bufandas"
+      },
+      {
+        "name": "Gorros",
+        "slug": "gorros"
+      },
+      {
+        "name": "Ruanas",
+        "slug": "ruanas"
+      },
+      {
+        "name": "Sacos",
+        "slug": "sacos"
+      },
+      {
+        "name": "Cuellos",
+        "slug": "cuellos"
+      }
+    ]
+  },
+  {
+    "name": "Tejidos para bebé",
+    "slug": "tejidos-para-bebe",
+    "children": []
+  },
+  {
+    "name": "Tejidos para mascotas",
+    "slug": "tejidos-para-mascotas",
+    "children": [
+      {
+        "name": "Chalecos para gatos",
+        "slug": "chalecos-para-gatos"
+      },
+      {
+        "name": "Vestidos para gatos",
+        "slug": "vestidos-para-gatos"
+      },
+      {
+        "name": "Juguetes para mascotas",
+        "slug": "juguetes-para-mascotas"
+      }
+    ]
+  }
+]
