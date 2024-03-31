@@ -14,7 +14,7 @@ export function Cart() {
   }, [state])
 
   return (
-    <main className="flex max-w-[1200px] w-full mx-auto py-4 [&>*]:flex-1">
+    <main className="flex flex-col md:flex-row max-w-[1200px] w-full mx-auto py-4 [&>*]:flex-1">
       <section className="flex flex-col">
         <h1 className="text-4xl font-extralight mb-4">Carrito</h1>
         <span>Precio Total: {totalPrice}</span>

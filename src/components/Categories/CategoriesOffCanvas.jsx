@@ -32,7 +32,7 @@ export const CategoriesOffCanvas = () => {
           </Button>
         </div>
         <Offcanvas.Body>
-          <CategoriesRender />
+          <CategoriesRender onClick={handleClose} />
         </Offcanvas.Body>
       </Offcanvas>
     </>
